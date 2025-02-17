@@ -4,4 +4,5 @@ Program ini dibuat menggunakan Visual Studio 2022, Windows Forms App (.NET Frame
 2. Terdapat Percabangan,
 3. Terdapat Perulangan,
 4. Terdapat Procedure.
+
 <br>Dibuat oleh: Endang Hermansyah 240401020040</br> 
